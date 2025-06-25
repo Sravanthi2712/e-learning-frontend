@@ -7,7 +7,6 @@ Welcome to the **E-Learning Frontend**! This project is a user-friendly and resp
 ## 🌐 Live Demo
 
 🚀 [Visit Live Site](https://github.com/Sravanthi2712/e-learning-frontend.git)  
-*(Link goes to the GitHub repo. Add a deployment link if hosted on Netlify, GitHub Pages, or Vercel)*
 
 ---
 
@@ -50,8 +49,7 @@ Here are some screenshots of the frontend UI:
 2. **Navigate into the project folder**
     cd e-learning-frontend
 3.  Open index.html in your browser
-     - Double-click the file, or
-
+    - Double-click the file, or
     - Use a Live Server extension in VS Code for real-time preview
 
 
